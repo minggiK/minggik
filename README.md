@@ -26,30 +26,38 @@
 ---
 
 
-## 🧩 Projects
+# 🧩 Projects
 
 
-### [Dice Talk](https://github.com/dice-talk)
-> WebSocket 기반 실시간 채팅 앱 (Toss 인증 + 관리자 대시보드 + AWS 인프라 구축)
 
-- STOMP 기반 WebSocket 구조 및 사용자 세션 관리
-- Toss 본인인증, Redis 기반 이메일 인증 구현
-- 관리자 웹 대시보드, EC2+S3+CloudFront+RDS 기반 배포
-- CI/CD 자동화 (GitHub Actions + Docker)
+## <img src="./assets/dicetalk.svg" width="28"/> [Dice Talk](https://github.com/dice-talk)
+
+> **WebSocket 기반 실시간 채팅 앱**  
+> Toss 본인인증 + 관리자 대시보드 + AWS 기반 인프라 구축
+
+### 🔧 주요 구현
+- **STOMP 기반 WebSocket** 구조 설계 및 **사용자 세션 관리**
+- **Toss 본인인증**, Redis 기반 **이메일 인증 로직 구현**
+- **관리자 전용 대시보드** 및 **EC2 + S3 + RDS + CloudFront** 배포 자동화
+- **CI/CD 파이프라인 구축** (GitHub Actions + Docker)
+
 
 
 <br>
 
 
-### [Log Be I](https://github.com/Log-Be-I)
-> 음성 기록 → AI 분석 → 자동 리포트 생성 시스템 (Clova STT + OpenAI GPT + TTS 연계)
+## <img src="./assets/logbe-i.png" width="60"/> [Log Be I](https://github.com/Log-Be-I)
+> **음성 기록 → AI 분석 → 자동 리포트 생성 시스템**
+> (Clova STT + OpenAI GPT + TTS 연계)
 
-- 주간/월간 리포트 자동 생성 배치 구현
-- GPT API 최적화 (10명 단위 요청 분할, 응답 이중 파싱)
-- Redis 인증 캐싱, JUnit + Mockito 단위 테스트
-- 관리자용 QnA/공지 시스템 및 S3 이미지 업로드
+### 🔧 주요 구현
+- **주간/월간 리포트 자동 생성 배치 구현**
+- **GPT API 최적화** (10명 단위 요청 분할, 응답 이중 파싱)
+- **Redis 인증 캐싱, JUnit + Mockito 단위 테스트**
+- **관리자용 QnA/공지 시스템 및 S3 이미지 업로드**
 
 
+<br>
 
 ---
 
