@@ -4,30 +4,28 @@
 
 ---
 
-
-💡 서비스 구조, 백엔드, 인프라, 협업 흐름까지 전반에 참여하며  
-**기능 중심이 아닌 문제 해결 중심의 개발자**로 성장하고 있습니다.  
-기술보다 먼저 **문제를 설계하고**, 팀과 함께 **지속 가능한 구조**를 고민합니다.
-
+<p align="center">
+  💡 서비스 구조, 백엔드, 인프라, 협업 흐름까지 전반에 참여하며<br/>
+  <strong>기능 중심이 아닌 문제 해결 중심의 개발자</strong>로 성장하고 있습니다.<br/>
+  기술보다 먼저 <strong>문제를 설계하고</strong>, 팀과 함께 <strong>지속 가능한 구조</strong>를 고민합니다.
+</p>
 
 
 ---
 
 
-## 🔥 Tech Stack
+# 🔥 Tech Stack
 
 - **Backend**: Java, Spring Boot, Spring Security, JPA
 - **DB**: MySQL, Redis
 - **Infra**: AWS EC2, RDS, S3, CloudFront, GitHub Actions, Docker
 - **Others**: RESTful API 설계, Swagger 문서화, JWT 인증, CI/CD 구성, WebSocket, QueryDSL
 
-
-
----
-
+<br>
 
 # 🧩 Projects
 
+<br>
 
 
 ## <img src="./assets/dicetalk.svg" width="28"/> [Dice Talk](https://github.com/dice-talk)
