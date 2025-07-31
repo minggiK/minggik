@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Minji Kang</h1>
 <p align="center">🚀 사용자 흐름과 운영까지 고려하는 실용형 개발자</p>
 
+
 ---
+
 
 💡 서비스 구조, 백엔드, 인프라, 협업 흐름까지 전반에 참여하며  
 **기능 중심이 아닌 문제 해결 중심의 개발자**로 성장하고 있습니다.  
 기술보다 먼저 **문제를 설계하고**, 팀과 함께 **지속 가능한 구조**를 고민합니다.
 
+
+
 ---
+
 
 ## 🔥 Tech Stack
 
@@ -16,9 +21,13 @@
 - **Infra**: AWS EC2, RDS, S3, CloudFront, GitHub Actions, Docker
 - **Others**: RESTful API 설계, Swagger 문서화, JWT 인증, CI/CD 구성, WebSocket, QueryDSL
 
+
+
 ---
 
+
 ## 🧩 Projects
+
 
 ### [Dice Talk](https://github.com/dice-talk)
 > WebSocket 기반 실시간 채팅 앱 (Toss 인증 + 관리자 대시보드 + AWS 인프라 구축)
@@ -28,7 +37,9 @@
 - 관리자 웹 대시보드, EC2+S3+CloudFront+RDS 기반 배포
 - CI/CD 자동화 (GitHub Actions + Docker)
 
+
 <br>
+
 
 ### [Log Be I](https://github.com/Log-Be-I)
 > 음성 기록 → AI 분석 → 자동 리포트 생성 시스템 (Clova STT + OpenAI GPT + TTS 연계)
@@ -38,14 +49,10 @@
 - Redis 인증 캐싱, JUnit + Mockito 단위 테스트
 - 관리자용 QnA/공지 시스템 및 S3 이미지 업로드
 
----
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=minggik&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minggik&layout=compact)
 
 ---
+
 
 ### 💬 I care about...
 
