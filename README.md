@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Minji Kang</h1>
+<h1 align="center">Hi, I'm Minji Kang</h1>
 <p align="center">🚀 사용자 흐름과 운영까지 고려하는 실용형 개발자</p>
 
 
